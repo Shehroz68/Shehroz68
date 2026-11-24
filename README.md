@@ -10,3 +10,24 @@ My work spans mobile development, web applications, API integrations, automation
 | --- | --- |
 | **[UAppen](https://github.com/Shehroz68/UAppen)** | UMass Amherst campus events app built with React Native and FastAPI. I worked on the event pipeline, location parsing across 50+ campus locations, and event categorization. [Original repo](https://github.com/ayaansattar/UAppen) · [Demo](https://www.youtube.com/watch?v=kfmEvdylnP0) |
 | **AI Examiner** | Full-stack platform for Cambridge O/A Level past papers with AI-driven analysis and a paper-builder for generating custom, print-ready exams. |
+| **LeetBank** | Full-stack coding-practice platform for storing, annotating, categorizing, and searching 3,236 LeetCode questions. |
+| **[Arsenal Analytics](https://github.com/Shehroz68/arsenal-analytics)** | Python and SQLite pipeline for Premier League match and shot data, with an expected goals model that reached 0.811 AUC and a forecasting pipeline that generated 8,000 match predictions. |
+| **[Stranger Chat](https://github.com/Shehroz68/stranger-chat)** | Real-time chat app built with Node.js, Express, and Socket.io. It pairs users by shared interests using TF-IDF and cosine similarity, with live translation and automated moderation. [Live demo](https://stranger-chat-5dvc.onrender.com/) |
+
+## Technologies
+
+**Languages**  
+Python • Java • JavaScript • TypeScript • C • SQL • HTML
+
+**Frontend**  
+React • React Native • Next.js • Expo • HTML • CSS
+
+**Backend & Data**  
+FastAPI • Node.js • Express.js • Supabase • Firestore • SQLite
+
+**Tools & Platforms**  
+Git • Linux • Unix • Salesforce • CI/CD • Pandas • NumPy
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/shehrozasim) • [GitHub](https://github.com/Shehroz68)
